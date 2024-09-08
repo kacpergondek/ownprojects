@@ -1,0 +1,2 @@
+The code takes an input from the user inside the program, and then summarizes it. If it is
+2 or 3, it adds a task that will be done. It then prints it into a text file.
